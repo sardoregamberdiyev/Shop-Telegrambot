@@ -1,19 +1,18 @@
 # Shop-Telegrambot
 <div>
-  <h4>Procurement department</h4>
+  <h4>Screenshots of Buyer and Admin panel taken from Telegram bot</h4>
   
  <div>
-   
-   <p>1.
-     ![](https://github.com/sardoregamberdiyev/solory_website/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(70).png)
-    </p>
-
-  
-   <p>2.
-     ![](https://github.com/sardoregamberdiyev/solory_website/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(70).png)
-   </p>
-   
+  <p> ![](https://github.com/sardoregamberdiyev/Shop-Telegrambot/blob/main/photo/photo_2023-06-05_16-47-45.jpg) </p>
+  <p> ![](https://github.com/sardoregamberdiyev/Shop-Telegrambot/blob/main/photo/photo_2023-06-05_16-47-53.jpg) </p>
+  <p> ![](https://github.com/sardoregamberdiyev/Shop-Telegrambot/blob/main/photo/photo_2023-06-05_16-47-58.jpg) </p>
+  <p> ![](https://github.com/sardoregamberdiyev/Shop-Telegrambot/blob/main/photo/photo_2023-06-05_16-48-04.jpg) </p>  
+  <p> ![](https://github.com/sardoregamberdiyev/Shop-Telegrambot/blob/main/photo/photo_2023-06-05_16-48-18.jpg) </p>
+  <p> ![](https://github.com/sardoregamberdiyev/Shop-Telegrambot/blob/main/photo/photo_2023-06-05_16-48-33.jpg) </p>
+  <p> ![](https://github.com/sardoregamberdiyev/Shop-Telegrambot/blob/main/photo/photo_2023-06-05_16-48-43.jpg) </p>
+  <p> ![](https://github.com/sardoregamberdiyev/Shop-Telegrambot/blob/main/photo/photo_2023-06-05_16-48-43.jpg) </p>
+  <p> ![](https://github.com/sardoregamberdiyev/Shop-Telegrambot/blob/main/photo/photo_2023-06-05_16-49-09.jpg) </p>  
+  <p> ![](https://github.com/sardoregamberdiyev/Shop-Telegrambot/blob/main/photo/photo_2023-06-05_16-49-25.jpg) </p> 
  </div>
-  
-  
+
  </div>
